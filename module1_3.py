@@ -1,0 +1,23 @@
+name="Denis"
+print(name[0])
+print(name[3])
+print(name[-1])
+print(name[0:3])
+print(name[0:3:2])
+print(name[:3])
+print(name[2:])
+print(name[::-1])
+print(name[::1])
+
+example=("Natali")
+print(example[0])
+print(example[-1])
+print(example[3:])
+print(example[::-1])
+print(example[1::2])
+example = 'Топинамбур'
+print(example[0])
+print(example[-1])
+print(example[5:])
+print(example[::-1])
+print(example[1::2])
